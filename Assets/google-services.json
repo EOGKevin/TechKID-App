@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "744022059555",
+    "firebase_url": "https://techkid2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "techkid2",
+    "storage_bucket": "techkid2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744022059555:android:494de18c0e09804ecf1f96",
+        "android_client_info": {
+          "package_name": "com.Idk.idk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744022059555-r8243v3ov61hil4vksprejiip4hma5of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmsH6N97qgi8i8HVPyaS6p47sLB_6Cr3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744022059555-r8243v3ov61hil4vksprejiip4hma5of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
